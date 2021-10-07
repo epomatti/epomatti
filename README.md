@@ -6,6 +6,8 @@ Long time [Architect Elevator](https://architectelevator.com/) rider 🦕 I'm in
 
 Outside tech I'm a casual rock singer and skydiver 🪂
 
+:construction: Work in progress :construction:
+
 
 <!--
 **epomatti/epomatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
