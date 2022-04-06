@@ -1,6 +1,6 @@
 ### Hi there, I'm Evandro Pomatti 👋
 
-I'm a Solutions Architect leading enterprise projects around the globe. This is the place I hide to get some personal code done and contribute when I can.
+I'm a software architect leading enterprise projects around the globe. This is the place I hide to get some personal code done and contribute when I can.
 
 Long time [Architect Elevator](https://architectelevator.com/) rider 🦕 I'm interested in building well-architected applications alongside great development teams.
 
